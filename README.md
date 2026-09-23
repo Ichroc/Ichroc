@@ -31,7 +31,7 @@
 <img src="assets/title-activite.svg" width="100%" alt="Activité GitHub">
 <p align="center">
   <img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Statistiques GitHub">
-  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Langages les plus utilisés">
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Heures de commit">
 </p>
 
 <picture>
