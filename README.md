@@ -134,12 +134,22 @@ Site web dynamique hébergé sur infra Linux Debian, base de données relationne
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ichroc&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Ichroc&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Ichroc&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 </div>
+
+<br>
+
+## 🎓 Certifications
+
+| Certification | Résultat | Validité |
+| --- | --- | --- |
+| **TOEIC** (ETS Global) | 810 / 990 — Listening 410, Reading 400 — Niveau **CEFR B2** | Jusqu'au 04/12/2027 |
+| **MOOC Gestion de Projet** (Centrale Lille — R. Bachelet) | Parcours Classique validé | — |
+| **CLOE** | *À compléter* | — |
 
 <br>
 
