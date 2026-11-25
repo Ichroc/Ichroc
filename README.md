@@ -3,19 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ichroc_fassassi@reseau.eseo.fr"><img src="assets/btn-email.svg" width="36%" alt="M'écrire : ichroc_fassassi@reseau.eseo.fr"></a>
-  <a href="https://www.linkedin.com/in/ichroc-fassassi"><img src="assets/btn-linkedin.svg" width="36%" alt="LinkedIn : ichroc-fassassi"></a>
+  <a href="https://ichroc.github.io"><img src="assets/btn-portfolio.svg" width="32%" alt="Mon portfolio : ichroc.github.io"></a>
+  <a href="mailto:ichroc_fassassi@reseau.eseo.fr"><img src="assets/btn-email.svg" width="32%" alt="M'écrire : ichroc_fassassi@reseau.eseo.fr"></a>
+  <a href="https://www.linkedin.com/in/ichroc-fassassi"><img src="assets/btn-linkedin.svg" width="32%" alt="LinkedIn : ichroc-fassassi"></a>
 </p>
 
 <br>
 
 <img src="assets/title-parcours.svg" width="100%" alt="Parcours">
-<img src="assets/parcours.svg" width="100%" alt="2024 : IRDW. Janvier à juin 2026 : ESEO Teaching Cloud, chef de projet et référent réseau. Depuis septembre 2026 : SOC Wazuh. Fin janvier 2027 : Stage technique ou alternance en cybersécurité.">
+<img src="assets/parcours.svg" width="100%" alt="2024 : IRDW. Janvier à juin 2026 : ESEO Teaching Cloud, chef de projet et référent réseau. Depuis septembre 2026 : SOC Wazuh. Fin janvier 2027 : stage technique de 17 semaines minimum, en infrastructure, SOC ou cloud.">
 
 <br><br>
 
 <img src="assets/title-outils.svg" width="100%" alt="Outils">
-<img src="assets/outils.svg" width="100%" alt="Cisco, OPNsense, Wireshark, Wazuh, Zabbix, Linux, Debian, Ansible, Vagrant, Bash, Azure, Docker, Kubernetes, GitLab CI/CD, PHP, MariaDB, HTML5">
+<img src="assets/outils.svg" width="100%" alt="Cisco, OPNsense, Wireshark, Wazuh, OpenVPN, Linux, Debian, Ansible, Vagrant, Bash, Zabbix, Docker, Kubernetes, Helm, Portainer, Azure, GitLab CI/CD, Python, Ollama, PHP, MariaDB, HTML5">
 
 <br><br>
 
